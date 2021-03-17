@@ -1,0 +1,1 @@
+console.log("Hello SkillFactory from Dima");
